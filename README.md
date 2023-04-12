@@ -15,11 +15,3 @@
 
 - 📫 How to reach me: Email - puniyavikas999@gmail.com
 
-
-## My GitHub Stats
-
-![Nishchhal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PuniyaVK2005&count_private=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PuniyaVK2005&theme=radical" alt="PuniyaVK2005" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PuniyaVK2005&show_icons=true&locale=en&layout=compact&theme=radical" alt="PuniyaVK2005" /></p>
